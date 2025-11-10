@@ -8,9 +8,13 @@ The report includes complete data transformation, modeling, and visualization st
 
 ## Tech Stack
 *Microsoft Power BI Desktop - Main tool used for dashboard creation and analysis.
+
 *Power Query Editor - Used for cleaning, shaping, and preparing the dataset.
+
 *Star Schema Design - Established relationships between tables for optimized reporting.
+
 *DAX (Data Analysis Expressions) - Created calculated columns, measures, and KPIs.
+
 *Power BI Visuals & Formatting Tools - Used to create interactive, visually appealing reports.
 
 ## Key Features
