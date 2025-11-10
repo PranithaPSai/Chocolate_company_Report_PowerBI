@@ -20,12 +20,21 @@ The report includes complete data transformation, modeling, and visualization st
 ## Key Features
 
 Data Cleaning: Transformed and standardized datasets using Power Query.
+
 Data Modeling: Established Star Schema and connected multiple tables efficiently.
+
 Advanced DAX: Created calculated measures, variables (VAR), and dynamic KPIs.
+
 Time Intelligence: Implemented YoY and time-based trend analysis using Calendar Tables.
+
 Interactive Design: Added slicers, filters, and drill-through capabilities for user-driven analysis.
+
 Rich Visuals: Included Line Charts, Donut Charts, Treemaps, and KPI Cards.
+
 Conditional Formatting: Highlighted performance metrics using dynamic color logic.
+
 Enhanced Usability: Integrated custom tooltips, images, and user-friendly navigation.
+
 Testing & Optimization: Ensured accuracy and responsiveness across all visuals.
+
 Professional Layout: Designed consistent and clean report pages for storytelling.
